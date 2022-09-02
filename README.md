@@ -3,8 +3,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&duration=6000&pause=1000&color=97942B&background=FFFFFF00&center=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />  
   
-### Hi there, I'm Mikhail <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+### Hi there,<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>I'm Mikhail 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=25&duration=9000&pause=1000&color=F72D15&center=true&multiline=true&width=435&lines=%22big+data+management%22)](https://git.io/typing-svg)
+  
 [![telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mike_komr)  
 
 
