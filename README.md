@@ -10,8 +10,10 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&duration=6000&pause=1000&color=97942B&background=FFFFFF00&center=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
-
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=pcTeapot&logoColor=white)
+<a href="https://t.me/Mikhail Komarov" rel="nofollow">
+                                                         
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  
+  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ###  My skills:
@@ -52,4 +54,4 @@
 ---
 
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikhailKom&theme=dark)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikhailKom&theme=dark)](https://github.com/MikhailKom)
