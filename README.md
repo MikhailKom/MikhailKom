@@ -1,11 +1,11 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&duration=6000&pause=1000&color=97942B&background=FFFFFF00&center=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />  
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=25&duration=9000&pause=9000&color=D4D03C&center=true&multiline=true&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)   
+
 ### Hi there,<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>I'm Mikhail 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=25&duration=9000&pause=1000&color=F72D15&center=true&multiline=true&width=435&lines=%22big+data+management%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=19&duration=9000&pause=9000&color=D44215&center=true&multiline=true&width=435&lines=%22big+data%2C+data+science%2C+machine+learning%22)](https://git.io/typing-svg)
   
 [![telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mike_komr)  
 
@@ -47,3 +47,5 @@
 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikhailKom&theme=dark)](https://github.com/MikhailKom)
+
+</div>
