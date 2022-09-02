@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi there, I'm <a href="https://MikhailKom.ru/" target="_blank">MikhailKom</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 <div id="header" align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&duration=6000&pause=1000&color=97942B&background=FFFFFF00&center=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
