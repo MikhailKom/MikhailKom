@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://MikhailKom.ru/" target="_blank">MikhailKom</a> 
+<h1 align="center">Hi there, I'm Mikhail</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div id="header" align="center">
