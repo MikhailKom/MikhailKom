@@ -3,8 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=25&duration=9000&pause=9000&color=D4D03C&center=true&multiline=true&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)   
 
-### Hi there,<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>I'm Mikhail 
-  
+### Hi there,I'm Mikhail 
+
 [![telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mike_komr)  
 
 
