@@ -3,10 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=25&duration=9000&pause=9000&color=D4D03C&center=true&multiline=true&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)   
 
-### Hi there,I'm Mikhail 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=25&duration=9000&pause=9000&color=D4D03C&center=true&multiline=true&width=435&lines=My+name+is+Mikhail!)](https://git.io/typing-svg)   
 
 [![telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mike_komr)  
-
 
 ###  My skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
